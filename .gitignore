@@ -1,3 +1,5 @@
+.idea
+*.iml
 # Compiled Object files
 *.slo
 *.lo
